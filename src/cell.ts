@@ -12,6 +12,7 @@ class Cell {
   public setIsAlive(state : boolean): void {
     this.isAlive = state;
   }
+
 }
 
 export {Cell};
